@@ -10,5 +10,6 @@ Pictures: https://medium.com/@ODSC/the-complete-guide-to-decision-trees-part-1-a
 
 ## Summary Of The My Sample
 In my sample, I would like to forecast how car's age could influence car's price.End of the project I wanted to compare Decision Tree graph with Linear and Polynomial Regression graph to see and have much more comprehension of Regression Models.
+
 ![Screenshot_1](https://user-images.githubusercontent.com/44119225/102450837-60282a00-4048-11eb-800a-9b33cd26880b.jpg)
 ![Figure_1](https://user-images.githubusercontent.com/44119225/102450857-69b19200-4048-11eb-8070-03feb368563f.png)
